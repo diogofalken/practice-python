@@ -20,4 +20,7 @@ Will try to solve the 30 python exercices from [Practice Python](https://www.pra
 | 008    | Rock Paper Scissors         | 🚀🚀🚀     | [link](exercices/008%20-%20Rock%20Paper%20Scissors)         |
 | 009    | Guessing Game One           | 🚀🚀🚀     | [link](exercices/009%20-%20Guessing%20Game%20One)           |
 | 010    | List Overlap Comprehensions | 🚀🚀       | [link](exercices/010%20-%20List%20Overlap%20Comprehensions) |
-| 011    | Check Primality Functions   | 🚀🚀🚀     | [link](exercices/010%20-%20Check%20Primality%20Functions)   |
+| 011    | Check Primality Functions   | 🚀🚀🚀     | [link](exercices/011%20-%20Check%20Primality%20Functions)   |
+| 012    | List Ends                   | 🚀         | [link](exercices/012%20-%20List%20Ends)                     |
+| 013    | Fibonacci                   | 🚀🚀       | [link](exercices/013%20-%20Fibonacci)                       |
+| 014    | List Remove Duplicates      | 🚀🚀       | [link](exercices/013%20-%20List%20Remove%20Duplicates)      |
