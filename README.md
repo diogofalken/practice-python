@@ -6,13 +6,15 @@ Will try to solve the 30 python exercices from [Practice Python](https://www.pra
 
 ## Exercices
 
-| Number | Name                | Difficulty | Link |
-|--------|---------------------|------------|------|
-| 001    | Character Input     | 🚀         | [link](exercices/001%20-%20Character%20Input)
-| 002    | Odd Or Even         | 🚀         | [link](exercices/002%20-%20Odd%20or%20Even)
-| 003    | List Less Than Ten  | 🚀🚀      | [link](exercices/003%20-%20List%20Less%20Than%20Ten)
-| 004    | Divisors            | 🚀🚀      | [link](exercices/004%20-%20Divisors)
-| 005    | list Overlap        | 🚀🚀      | [link](exercices/005%20-%20List%20Overlap)
-| 006    | String Lists        | 🚀🚀      | [link](exercices/006%20-%20String%20Lists)
-| 007    | List Comprehensions | 🚀🚀      | [link](exercices/007%20-%20List%20Comprehensions)
-| 008    | Rock Paper Scissors | 🚀🚀🚀    | [link](exercices/008%20-%20Rock%20Paper%20Scissors)
+| Number | Name                        | Difficulty | Link |
+|--------|-----------------------------|------------|------|
+| 001    | Character Input             | 🚀         | [link](exercices/001%20-%20Character%20Input)
+| 002    | Odd Or Even                 | 🚀         | [link](exercices/002%20-%20Odd%20or%20Even)
+| 003    | List Less Than Ten          | 🚀🚀      | [link](exercices/003%20-%20List%20Less%20Than%20Ten)
+| 004    | Divisors                    | 🚀🚀      | [link](exercices/004%20-%20Divisors)
+| 005    | list Overlap                | 🚀🚀      | [link](exercices/005%20-%20List%20Overlap)
+| 006    | String Lists                | 🚀🚀      | [link](exercices/006%20-%20String%20Lists)
+| 007    | List Comprehensions         | 🚀🚀      | [link](exercices/007%20-%20List%20Comprehensions)
+| 008    | Rock Paper Scissors         | 🚀🚀🚀    | [link](exercices/008%20-%20Rock%20Paper%20Scissors)
+| 009    | Guessing Game One           | 🚀🚀🚀    | [link](exercices/009%20-%20Guessing%20Game%20One)
+| 010    | List Overlap Comprehensions | 🚀🚀      | [link](exercices/010%20-%20List%20Overlap%20Comprehensions)
